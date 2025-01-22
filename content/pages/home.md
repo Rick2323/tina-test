@@ -6,7 +6,7 @@ blocks:
           name: ''
           color: ''
           style: float
-        title: Here's Another Feature bosta2
+        title: Here's Another Feature bosta3
         text: >-
           This is where you might talk about the feature, if this wasn't just
           filler text.
