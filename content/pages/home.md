@@ -6,7 +6,7 @@ blocks:
           name: ''
           color: ''
           style: float
-        title: Here's Another Feature mudar esta porra
+        title: Here's Another Feature
         text: >-
           This is where you might talk about the feature, if this wasn't just
           filler text.
@@ -28,7 +28,7 @@ blocks:
           filler text.
     _template: features
   - tagline: This is a new tagline!
-    headline: This is a test
+    headline: This is a test bla bla
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
